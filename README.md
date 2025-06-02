@@ -2,7 +2,7 @@
 
 Welcome to my personal website! I'm an electrical engineer specializing in embedded systems, power electronics, and sensor networks. This portfolio showcases my key projects, technical experience, and academic background.
 
-🌐 **Live Site:** [https://your-username.github.io/your-repo-name](https://your-username.github.io/your-repo-name)  
+🌐 **Live Site:** [https://alyssals321.github.io/alyssa-portfolio](https://alyssals321.github.io/alyssa-portfolio)  
 📄 **Download Resume:** [Resume.pdf](Resume.pdf)
 
 ## 🔧 Technologies Used
